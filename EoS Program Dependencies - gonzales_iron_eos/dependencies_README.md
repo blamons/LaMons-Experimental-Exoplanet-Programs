@@ -1,1 +1,3 @@
+This folder contains two files from my mentor Roberto Tejada Arevalo's GitHub repository, both of which are equation of state (EoS) data tables for iron. The data was originally published in the following paper: F. Gonzalez-Cataldo and Burkhard Militzer. "Ab initio determination of iron melting at terapascal pressures and Super-Earths core crystallization". Physical Review Research 5, 033194 (2023). https://doi.org/10.1103/PhysRevResearch.5.033194. This citation can also be found in the heading of each table's file. 
 
+So far, in my program, I have only utilized the solid iron EoS table,  but in the future, I will also incorporate the liquid iron table in order to more fully simulate the processes and (potential) mixing of phases within planetary cores. 
